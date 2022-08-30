@@ -156,7 +156,7 @@ section .btn2:hover{
     flex-direction: column;
 }
 h1{
-    color: #000000;
+    color: #ffffff;
     transition: .5s;
     margin-top: 25px;
 }
